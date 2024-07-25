@@ -1,6 +1,6 @@
 import java.util.*;
-//number pyramid
-public class Patterns{
+//number_pyramid
+public class number_pyramid{
     public static void main(String args[]){
         int n = 5;
         
