@@ -1,6 +1,6 @@
 import java.util.*;
-//palindrome pattern
-public class Patterns{
+//palindrome 
+public class palindrome{
     public static void main(String args[]){
         int n = 5;
         
