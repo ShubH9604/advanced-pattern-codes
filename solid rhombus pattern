@@ -1,6 +1,6 @@
 import java.util.*;
-//solid rhombus
-public class Patterns{
+//solid_rhombus
+public class solid_rhombus{
     public static void main(String args[]){
         int n = 5;
         
